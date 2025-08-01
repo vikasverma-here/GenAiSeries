@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@google/genai": "^1.11.0",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module",
+  "name": "aiagent",
+  "version": "1.0.0",
+  "main": "AIagent.js",
+  "devDependencies": {},
+   "scripts": {
+    "dev": "node AIagent.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
